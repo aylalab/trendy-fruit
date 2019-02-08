@@ -21,15 +21,15 @@ body {
   margin: 0;
 }
 
-h2 {
+.watermelon h2 {
   font-family: "Rammetto One", sans-serif;
 }
 
-h3 {
+.starfruit h2 {
   font-family: "Gravitas One", serif;
 }
 
-h4 {
+.persimmon h2 {
   font-family: "Comfortaa", sans-serif;
 }
 
